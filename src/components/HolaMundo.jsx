@@ -2,7 +2,7 @@ import React from "react";
 
 const HolaMundo = () => {
   const Hello = "Hola Mundo!";
-  const isTrue = false;
+  const isTrue = true;
   return (
     <div className="HolaMundo">
       <h1>{Hello}</h1>
